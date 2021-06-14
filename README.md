@@ -2,7 +2,7 @@
 
 ## ✎ Configurations 
 * [.vimrc Configuration](https://cutt.ly/PnGQD9y)	 
-* [.bashrc Configuration](https://kutt.it/hlOTiU)	 
+* [.bashrc Configuration](https://cutt.ly/ZnGESZd)	 
 * [.zshrc Configuration](https://cutt.ly/NkYqmvo)	 
 * [.nanorc Configuration](https://cutt.ly/NkYqmvo)
 * [Keys Configuration](https://cutt.ly/NkYqmvo)  
