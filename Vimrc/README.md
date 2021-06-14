@@ -1,4 +1,4 @@
-# Vim Configuration Files
+![Vim Configuration](https://user-images.githubusercontent.com/48232101/121896809-6e2ddd80-cd41-11eb-8a63-58caa1dc8dff.gif)
 
 ## Useful Links 
 * [Vim Plugins](https://vimawesome.com/)
