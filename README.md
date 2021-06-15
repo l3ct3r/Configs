@@ -5,4 +5,4 @@
 * [.bashrc Configuration](https://github.com/3ncrypt3db0t/Configs/tree/main/Bashrc)	 
 * [.zshrc Configuration](https://github.com/3ncrypt3db0t/Configs/tree/main/Zshrc)	 
 * [.nanorc Configuration](https://github.com/3ncrypt3db0t/Configs/tree/main/Nanorc)
-* [Keys Configuration](https://cutt.ly/NkYqmvo)  
+* [Keys Configuration]()  
