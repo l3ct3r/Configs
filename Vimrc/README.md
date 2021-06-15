@@ -1,6 +1,6 @@
 ![Vim Configuration](https://user-images.githubusercontent.com/48232101/121896809-6e2ddd80-cd41-11eb-8a63-58caa1dc8dff.gif)
 
-## Useful Links 
+## 🔗 Useful Links 
 * [Vim Plugins](https://vimawesome.com/)
 * [Vimrc Guide](https://github.com/amix/vimrc)
 * [Basic Vimrc](https://gist.github.com/simonista/8703722)
@@ -11,3 +11,5 @@
 * [Vim Fandom](https://vim.fandom.com/wiki/Example_vimrc)
 * [Nvie Vim](https://github.com/nvie/vimrc/blob/master/vimrc)
 
+## ℹ️ Usage and How To 
+* Will be updated soon
