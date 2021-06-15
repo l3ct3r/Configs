@@ -1,4 +1,4 @@
-# Nano Config
+![NANO](https://user-images.githubusercontent.com/48232101/122084247-62194d00-ce21-11eb-816e-24b3fc160eb2.gif)
 
 ## 🔗 Useful Links 
 * [Nano Syntax Highlighting](https://github.com/scopatz/nanorc)
