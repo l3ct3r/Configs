@@ -7,8 +7,6 @@
 * [Bash-It](https://github.com/Bash-it/bash-it)
 * [Bash It Documentation](https://bash-it.readthedocs.io/en/latest/)
 * [Bash It Tweaks](https://www.tecmint.com/bash-it-control-shell-scripts-aliases-in-linux/)
-* [Pfetch](https://github.com/dylanaraps/pfetch)
-* [Ufetch](https://gitlab.com/jschx/ufetch)
 
 ## ❓ How To 
 * Ufetch - Tiny system info for Unix-like operating systems
@@ -53,5 +51,9 @@ This would display :
 
 ```
 
+## Credit 
+* [Pfetch - A pretty system information tool written in POSIX sh](https://github.com/dylanaraps/pfetch) 
+* [Ufetch - Tiny system info for Unix-like operating systems](https://gitlab.com/jschx/ufetch)
+
 # Note 
-> I don't own the fetch information codes. Owner information is [pfetch](https://github.com/dylanaraps/pfetch) and [ufetch](https://gitlab.com/jschx/ufetch).
+> I don't own the fetch information codes. 
