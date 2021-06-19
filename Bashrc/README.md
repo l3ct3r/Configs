@@ -17,7 +17,7 @@ I have saved my ufetch config in /home/encrypt3db0t/Documents/Configs/Ufetch
 To output the fetch results 
 
 $~ vim .bashrc
-/home/3ncrypt3db0t/Documents/Configs/Ufetch/mint
+/home/encrypt3db0t/Documents/Configs/Ufetch/mint
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
@@ -38,7 +38,7 @@ I have saved my ufetch config in /home/encrypt3db0t/Documents/Configs/Ufetch
 To output the fetch results 
 
 $~ vim .bashrc
-/home/3ncrypt3db0t/Documents/Configs/Ufetch/mint
+/home/encrypt3db0t/Documents/Configs/Pfetch/pfetch
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
