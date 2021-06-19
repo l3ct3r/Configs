@@ -7,6 +7,7 @@
 * [Bash-It](https://github.com/Bash-it/bash-it)
 * [Bash It Documentation](https://bash-it.readthedocs.io/en/latest/)
 * [Bash It Tweaks](https://www.tecmint.com/bash-it-control-shell-scripts-aliases-in-linux/)
+* [Pfetch](https://github.com/dylanaraps/pfetch)
 * [Ufetch](https://gitlab.com/jschx/ufetch)
 
 ## ❓ How To 
@@ -28,5 +29,26 @@ This would display :
     |  | | | |  |  PACKAGES:  1956 
     |  \_____/  |  SHELL:     bash
     \___________/  DE:        XFCE
+
+```
+
+* Pfetch - 🐧 A pretty system information tool written in POSIX sh
+```
+I have saved my ufetch config in /home/encrypt3db0t/Documents/Configs/Ufetch
+To output the fetch results 
+
+$~ vim .bashrc
+/home/3ncrypt3db0t/Documents/Configs/Ufetch/mint
+# ~/.bashrc: executed by bash(1) for non-login shells.
+# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
+# for examples
+This would display : 
+ ___________       encrypt3db0t@id10t
+|_          \      os     Linux Mint 20.1
+  | | _____ |      host   Dell XPS 13
+  | | | | | |      kernel 5.4.0-74-generic
+  | | | | | |      uptime 45m
+  | \_____/ |      pkgs   1951
+  \_________/      memory 844M / 4938M
 
 ```
