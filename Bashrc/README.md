@@ -52,3 +52,6 @@ This would display :
   \_________/      memory 844M / 4938M
 
 ```
+
+# Note 
+> I don't own the fetch information codes. Owner information is [pfetch](https://github.com/dylanaraps/pfetch) and [ufetch](https://gitlab.com/jschx/ufetch).
