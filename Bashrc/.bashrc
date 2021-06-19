@@ -1,6 +1,6 @@
-# OS : Linux Mint 20.1
 /home/encrypt3db0t/Documents/Configs/Ufetch/mint
 # /home/encrypt3db0t/Documents/Configs/Pfetch/pfetcch
+# OS : Linux Mint 20.1
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
