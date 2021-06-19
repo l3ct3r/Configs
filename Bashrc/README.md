@@ -9,5 +9,24 @@
 * [Bash It Tweaks](https://www.tecmint.com/bash-it-control-shell-scripts-aliases-in-linux/)
 * [Ufetch](https://gitlab.com/jschx/ufetch)
 
-## ℹ️ Usage and How To 
-* Will be updated soon
+## ❓ How To 
+* Ufetch - Tiny system info for Unix-like operating systems
+```
+I have saved my ufetch config in /home/encrypt3db0t/Documents/Configs/Ufetch
+To output the fetch results 
+
+$~ vim .bashrc
+/home/3ncrypt3db0t/Documents/Configs/Ufetch/mint
+# ~/.bashrc: executed by bash(1) for non-login shells.
+# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
+# for examples
+This would display : 
+   _____________   encrypt3db0t@id10t
+  |_            \  OS:        Linux Mint 20.1
+    |  | _____  |  KERNEL:    Linux 5.4.0-74-generic 
+    |  | | | |  |  UPTIME:    14 minutes
+    |  | | | |  |  PACKAGES:  1956 
+    |  \_____/  |  SHELL:     bash
+    \___________/  DE:        XFCE
+
+```
