@@ -96,6 +96,7 @@ alias l='ls -CF'
 # Some other Aliases 
 alias h='history'
 alias c='clear'
+alias lb='lsblk -f'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
