@@ -1,6 +1,4 @@
-/home/encrypt3db0t/Documents/Configs/Ufetch/mint
-# /home/encrypt3db0t/Documents/Configs/Pfetch/pfetcch
-# OS : Linux Mint 20.1
+/home/id10t/Documents/Configs/Bashrc/Ufetch/ufetch
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
@@ -94,6 +92,10 @@ fi
 alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
+
+# Some other Aliases 
+alias h='history'
+alias c='clear'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
