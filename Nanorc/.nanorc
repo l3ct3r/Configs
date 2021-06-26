@@ -26,7 +26,7 @@ set titlecolor yellow,red
 # Status
 set statuscolor black,yellow
 # Key
-set keycolor cyan,black
+set keycolor red,black
 # Function
 set functioncolor green,black
 # Number
