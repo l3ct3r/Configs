@@ -20,8 +20,14 @@ set tabsize 4
 # Tabs to Spaces
 set tabstospaces
 
-# Title Bar Color 
+## Color Scheme
+# Title Bar
 set titlecolor yellow,red
+# Status
+# Key
+# Function
+# Number
+set numbercolor black,cyan
 
 # Syntax Highlighting
 include "~/.nano/c.nanorc"
