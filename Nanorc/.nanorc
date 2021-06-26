@@ -1,5 +1,8 @@
-# Set Line Numbers 
+# Line Numbers 
 set linenumbers
+
+# Auto Indent 
+set autoindent  
 
 # Syntax Highlighting
 include "~/.nano/c.nanorc"
