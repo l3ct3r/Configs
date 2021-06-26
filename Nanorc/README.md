@@ -35,3 +35,5 @@ Bash users can export the variables in the ~/.bashrc file:
 export VISUAL=nano
 export EDITOR="$VISUAL"
 ```
+
+> Nano ships with almost every GNU/Linux distributions 
