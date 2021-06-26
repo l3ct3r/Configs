@@ -41,3 +41,4 @@ include "~/.nano/awk.nanorc"
 include "~/.nano/css.nanorc"
 include "~/.nano/conf.nanorc"
 include "~/.nano/markdown.nanorc"
+# Includes to be Updated: Javascript, Java, Python, YAML, XML, VI, TEX, SQL, Systemd, Shell, sed, awk, Powershell, MAN, JS, JSON
