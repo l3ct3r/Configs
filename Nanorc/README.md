@@ -5,5 +5,17 @@
 * [Nano Configuration](https://www.nano-editor.org/dist/latest/nanorc.5.html)
 * [Nano QnA](https://askubuntu.com/questions/73444/how-to-show-line-numbering-in-nano-when-opening-a-file)
 
-## ℹ️ Usage and How To
-* Will be updated soon
+## ❔ How To
+- GNU nano is a text editor for Unix-like computing systems or operating environments using a command line interface.
+
+```
+# Syntax Highlighting
+Nano ships with syntax highlighting rules for most popular file types. On most Linux systems, the syntax files are stored in the /usr/share/nano directory and included by default in the /etc/nanorc configuration file.
+/etc/nanorc
+include "/usr/share/nano/*.nanorc"
+
+OR 
+"/.nano/*.nanorc"
+
+Copy or wget the files as per your requirements
+```
