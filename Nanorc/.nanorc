@@ -1,8 +1,17 @@
-# Line Numbers 
+# Line Numbers
 set linenumbers
 
-# Auto Indent 
-set autoindent  
+# Auto Indent
+set autoindent
+
+# Mouse Navigation
+set mouse
+
+# Word Wrap
+set softwrap
+
+# Smooth Scrolling
+set smooth
 
 # Syntax Highlighting
 include "~/.nano/c.nanorc"
