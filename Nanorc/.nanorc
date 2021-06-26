@@ -13,6 +13,16 @@ set softwrap
 # Smooth Scrolling
 set smooth
 
+# Tab Size
+set tabsize 4
+# set tabsize 2
+
+# Tabs to Spaces
+set tabstospaces
+
+# Title Bar Color 
+set titlecolor yellow,red
+
 # Syntax Highlighting
 include "~/.nano/c.nanorc"
 include "~/.nano/nano.nanorc"
