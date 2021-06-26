@@ -24,8 +24,11 @@ set tabstospaces
 # Title Bar
 set titlecolor yellow,red
 # Status
+set statuscolor black,yellow
 # Key
+set keycolor cyan,black
 # Function
+set functioncolor green,black
 # Number
 set numbercolor black,cyan
 
