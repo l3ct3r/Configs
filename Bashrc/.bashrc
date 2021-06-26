@@ -96,6 +96,7 @@ alias l='ls -CF'
 # Some other Aliases 
 alias h='history'
 alias c='clear'
+alias d='exit'
 alias lb='lsblk -f'
 
 # Program  Aliases 
