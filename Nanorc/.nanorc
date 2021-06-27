@@ -35,6 +35,7 @@ set numbercolor black,cyan
 # Syntax Highlighting
 include "~/.nano/c.nanorc"
 include "~/.nano/nano.nanorc"
+include "~/.nano/nanorc.nanorc"
 include "~/.nano/html.nanorc"
 include "~/.nano/csv.nanorc"
 include "~/.nano/awk.nanorc"
