@@ -7,5 +7,16 @@
 * [ZSH Themes](https://zshthem.es/all/)
 * [Powerlevel 10k](https://github.com/romkatv/powerlevel10k)
 
-## ℹ️ Usage and How To 
-* Will be Updated Soon
+## ❓ How To
+- Install ZSH 
+```
+*************** APT Based Distros ***************
+$~ sudo apt install zsh 
+
+*************** RPM Based Distros ***************
+$~ sudo yum install zsh 
+$~ sudo dnf install zsh 
+
+*************** Arch Based Distros ***************
+$~ sudo pacman -S zsh 
+```
