@@ -21,7 +21,7 @@ $~ sudo dnf install zsh
 $~ sudo pacman -S zsh 
 ```
 
-- Using ZSH Shell
+- Using ZSH Shell (Optional)
 ```
 I'm using XFCE4-Terminal
 Go to Terminal's Prefrence -> General -> Check Working Directory -> /bin/zsh
@@ -29,9 +29,9 @@ Go to Terminal's Prefrence -> General -> Check Working Directory -> /bin/zsh
 
 - Installing Oh-My-ZSH
 ```
-sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+$~ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 Cloning Oh My Zsh...
-Cloning into '/home/id10t/.oh-my-zsh'...
+Cloning into '/home/encrypt3db0t/.oh-my-zsh'...
 remote: Enumerating objects: 1239, done.
 remote: Counting objects: 100% (1239/1239), done.
 remote: Compressing objects: 100% (1204/1204), done.
