@@ -63,3 +63,46 @@ Before you scream Oh My Zsh! please look over the ~/.zshrc file to select plugin
 • Get stickers, shirts, coffee mugs and other swag: https://shop.planetargon.com/collections/oh-my-zsh
 
 ```
+
+- Installing and Using Powerlevel10k Theme
+```
+********** Installation **********
+~ git clone --depth=1 https://gitee.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+
+********** Using Powerlevel10k Theme **********
+$~ vim .zshrc 
+
+# Set name of the theme to load --- if set to "random", it will
+# load a random theme each time oh-my-zsh is loaded, in which case,
+# to know which specific one was loaded, run: echo $RANDOM_THEME
+# See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+ZSH_THEME="powerlevel10k/powerlevel10k"
+
+********** Configuring Powerlevel10k Theme **********
+- Exit out of the current terminal session 
+- Open new Terminal 
+$~ p10k configure 
+
+This is Powerlevel10k configuration wizard. It will ask you a few questions and
+                                 configure your prompt.
+
+                    Does this look like a diamond (rotated square)?
+                      reference: https://graphemica.com/%E2%97%86
+
+                                     --->  <>  <---
+
+(y)  Yes.
+
+(n)  No.
+
+(q)  Quit and do nothing.
+
+Choice [ynq]: 
+
+Continue as you want
+```
+
+- Shell after ZSH 
+
+![DE](https://user-images.githubusercontent.com/48232101/123642695-4f504080-d843-11eb-8f81-3527ad4bfc25.png)
+
