@@ -24,7 +24,7 @@ $~ sudo pacman -S zsh
 - Using ZSH Shell (Optional)
 ```
 I'm using XFCE4-Terminal
-Go to Terminal's Prefrence -> General -> Check Working Directory -> /bin/zsh
+Go to Terminal's Prefrence -> General -> Check on Run a Custom Command Instead of my Shell -> /bin/zsh
 ```
 
 - Installing Oh-My-ZSH
