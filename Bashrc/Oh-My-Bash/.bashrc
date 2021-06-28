@@ -1,3 +1,4 @@
+
 /home/id10t/Documents/Configs/Bashrc/Ufetch/ufetch
 
 # Path to your oh-my-bash installation.
@@ -68,6 +69,9 @@ completions=(
 # Add wisely, as too many aliases slow down shell startup.
 aliases=(
   general
+  chmod
+  ls
+  misc
 )
 
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-bash/plugins/*)
@@ -91,11 +95,11 @@ source $OSH/oh-my-bash.sh
 # export LANG=en_US.UTF-8
 
 # Preferred editor for local and remote sessions
-# if [[ -n $SSH_CONNECTION ]]; then
-#   export EDITOR='vim'
-# else
-#   export EDITOR='mvim'
-# fi
+if [[ -n $SSH_CONNECTION ]]; then
+   export EDITOR='vim'
+else
+   export EDITOR='mvim'
+fi
 
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
