@@ -109,7 +109,10 @@ Continue as you want
 - Configuring and Using Plugins in ZSH 
 ```
 1. Auto Color ls
-$~ git clone https://github.com/gretzky/auto-color-ls ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/auto-color-ls
+$~ cd ~/.oh-my-zsh/custom/plugins
+$~ git clone https://github.com/gretzky/auto-color-ls.git
+$~ echo "source ${(q-)PWD}/auto-color-ls/auto-color-ls.plugin.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
+$~ source ~/.oh-my-zsh/custom/plugins/auto-color-ls/auto-color-ls.plugin.zsh
 - Enable this plugin by adding auto-color-ls in your zshrc file
 
 2. ZSH-Autocomplete 
