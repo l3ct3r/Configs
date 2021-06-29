@@ -23,6 +23,10 @@ $~ sudo pacman -S zsh
 
 - Using ZSH Shell (Optional)
 ```
+1. CLI 
+$~ chsh -s /usr/bin/zsh
+
+2. GUI
 I'm using XFCE4-Terminal
 Go to Terminal's Prefrence -> General -> Check on Run a Custom Command Instead of my Shell -> /bin/zsh
 ```
