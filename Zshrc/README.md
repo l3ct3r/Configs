@@ -106,3 +106,35 @@ Continue as you want
 
 ![DE](https://user-images.githubusercontent.com/48232101/123642695-4f504080-d843-11eb-8f81-3527ad4bfc25.png)
 
+- Configuring and Using Plugins in ZSH 
+```
+1. Auto Color ls
+$~ git clone https://github.com/gretzky/auto-color-ls ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/auto-color-ls
+- Enable this plugin by adding auto-color-ls in your zshrc file
+
+2. ZSH-Autocomplete 
+$~ git clone https://github.com/marlonrichert/zsh-autocomplete ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autocomplete
+- Enable this plugin by adding zsh-autocomplete to plugins array in your zshrc file 
+
+3. Colorls
+$~ git clone https://github.com/Kallahan23/zsh-colorls ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-colorls
+- Enable this plugin by adding zsh-colorls to the plugins array in your zshrc file:
+
+* NOTE: Make sure it is listed after any plugin which sets aliases for the ls command, such as the common-aliases plugin.
+plugins=(... zsh-colorls)
+
+4. Colorize
+$~ git clone https://github.com/zpm-zsh/colorize ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/colorize
+- Enable this plugin by adding colorize in your zshrc file
+
+5. Colored Man Pages 
+$~ git clone https://github.com/ael-code/zsh-colored-man-pages.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-colored-man-pages
+- Enable this plugin by adding zsh-colored-man-pages in your zshrc file
+
+6. Syntax Highlighting 
+$~ cd ~/.oh-my-zsh/custom/plugins
+$~ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+$~ echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
+$~ source ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+- Enable this plugin by adding zsh-syntax-highlighting in your zshrc files 
+```
